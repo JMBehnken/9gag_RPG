@@ -1,5 +1,6 @@
 # 9gag_RPG
 Which RPGs are popular among 9gag users?
 
-
-The comments of a 9gag-post have been scraped and the mentions of game titles have been counted.
+One post on 9gag asked the users to comment their most beloved RPG-Games.
+These comments have been scraped and the mentioned game-titles have been separated, cleaned and counted.
+Finally all games are plotted by their frequency in a ranking.
